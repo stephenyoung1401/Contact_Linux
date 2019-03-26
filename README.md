@@ -17,7 +17,7 @@ a contact based on C/S
 
 sudo chmod 777 start.sh
 make dirctly
-G```
+```
 
 
 ## Functions:
